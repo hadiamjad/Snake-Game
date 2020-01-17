@@ -2,6 +2,7 @@
 Snake Game using assembly language 8086
 
 # Functionalities
+
 1. A snake that automatically moves left, right, up and down on the screen.
 2. Initial size of snake is 20 characters with head of the snake represented by a different
    character as compared to its body.
@@ -20,3 +21,13 @@ Snake Game using assembly language 8086
 12. Show on display the remaining and total lives.
 13. Show on display the time remaining and when the time is reset.
 14. If the snake touches itself one life of player will end.
+
+# Code Guidelines
+
+. This ";;;;;;;" is used for seperating subroutines
+. Each subroutine has a specific name according to its functionality.
+. Some subroutines also have comments for better understanding.
+
+# Licencse
+
+Do not copy because its a personal property.
